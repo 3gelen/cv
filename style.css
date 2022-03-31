@@ -1,0 +1,14 @@
+th, td {
+padding: 10px;
+}
+
+body {
+  background-color: #C0EDA6
+}
+
+hr {
+  width: 7%;
+  border: 8px dotted;
+  border-style: none none dotted;
+  color: grey
+}
